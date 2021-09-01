@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MultiThreading.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{029980A8-5011-482C-8165-8AE176182B93}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiThreading.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MultiThreadingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{50DA132E-18EC-434A-B66D-2DE032B61996}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MultiThreading">
+      <UniqueIdentifier>{47B68B1E-757A-4AA6-87FC-78E2561074A4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiThreading\MultiThreading.Build.cs">
+      <Filter>Source\MultiThreading</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MultiThreading\MultiThreading.cpp">
+      <Filter>Source\MultiThreading</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiThreading\MultiThreading.h">
+      <Filter>Source\MultiThreading</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiThreading\MultiThreadingCharacter.cpp">
+      <Filter>Source\MultiThreading</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiThreading\MultiThreadingCharacter.h">
+      <Filter>Source\MultiThreading</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiThreading\MultiThreadingGameMode.cpp">
+      <Filter>Source\MultiThreading</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiThreading\MultiThreadingGameMode.h">
+      <Filter>Source\MultiThreading</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

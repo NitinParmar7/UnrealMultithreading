@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiThreading",
+			"Path": "E:\\UnrealProjects\\Projects\\UnrealMultithreading\\MultiThreading\\Source\\MultiThreading.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiThreadingEditor",
+			"Path": "E:\\UnrealProjects\\Projects\\UnrealMultithreading\\MultiThreading\\Source\\MultiThreadingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

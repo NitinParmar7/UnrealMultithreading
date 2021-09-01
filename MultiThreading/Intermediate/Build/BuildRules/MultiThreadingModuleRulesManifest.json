@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealProjects\\Projects\\UnrealMultithreading\\MultiThreading\\Source\\MultiThreading\\MultiThreading.Build.cs",
+		"E:\\UnrealProjects\\Projects\\UnrealMultithreading\\MultiThreading\\Source\\MultiThreading.Target.cs",
+		"E:\\UnrealProjects\\Projects\\UnrealMultithreading\\MultiThreading\\Source\\MultiThreadingEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
